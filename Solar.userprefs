@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\sources\mgmt\GameManager.cs">
+    <Files>
+      <File FileName="Assets\sources\mgmt\GameManager.cs" Line="45" Column="14" />
+      <File FileName="c:\Users\Thomas\Tmp\Solar\Assets\sources\mgmt\Bootstrap.cs" Line="19" Column="24" />
+      <File FileName="Assets\sources\mgmt\GameState.cs" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Thomas Champagne" Email="th.champagne@gmail.com" Copyright="Thomas Champagne" Company="MySelf" Trademark="" />
+</Properties>
